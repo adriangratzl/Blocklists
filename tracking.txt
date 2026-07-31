@@ -1,7 +1,4 @@
 0.0.0.0 btloader.com
-0.0.0.0 *.btloader.com
 0.0.0.0 stats.itsfoss.com
 0.0.0.0 sensic.net
-0.0.0.0 *.sensic.net
 0.0.0.0 bitmovin.com
-0.0.0.0 *.bitmovin.com
